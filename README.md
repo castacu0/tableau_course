@@ -1,2 +1,4 @@
-# BusinessAnalyticsDataScience
-My notes
+# Data Science Journey
+My notes.
+
+ - Tableau will go here.
