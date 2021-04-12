@@ -1,0 +1,12 @@
+Tools for every stage of data analysis
+
+Information extraction with SQL.
+It synthesizes a database it serves to deliver a control chart of the operation.
+
+Analysis and visualization with R and Python
+
+	R -> has a more statistical approach based on econometrics.
+	It is a more complex—descriptive and exploratory analysis.
+
+	Python -> based on engineering. 
+	It is similar to other languages—descriptive and exploratory analysis.
