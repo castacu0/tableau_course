@@ -1,5 +1,7 @@
-# My Dashboards using Tableau 🚥
-My notes.
+# My Dashboards using Tableau🎨
 
- - Tableau will go here.
- - Python later will be here
+ ## [Tableau Public - My work](https://public.tableau.com/profile/cesar.c.acuna#!/)
+ 
+ Later on, I'll be adding some more dashboards. ✨
+ Most info extracted from [Kaggle](https://kaggle.com/) and [the CIA Factbook](https://www.cia.gov/the-world-factbook/)
+
